@@ -1,0 +1,12 @@
+# Datasets
+*.csv
+*.xlsx
+*.parquet
+
+# Entornos virtuales y caché
+venv/
+env/
+__pycache__/
+
+# Archivos de sistema
+.DS_Store
